@@ -1,2 +1,2 @@
 # scalajs
-Time to jump on the future
+Time to jump on the future of JavaScript: the functional approach
